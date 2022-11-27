@@ -33,6 +33,7 @@
 /*-----------------------------------------------------------
  * Application specific definitions.
  *
+ 
  * These definitions should be adjusted for your particular hardware and
  * application requirements.
  *
